@@ -1,0 +1,13 @@
+#app {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+.img-detail {
+    width: 40rem;
+    height: 23rem;
+}

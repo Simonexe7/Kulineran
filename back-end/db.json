@@ -1,0 +1,174 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Ayam Bakar",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "ayam-bakar.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Nasi Goreng",
+      "harga": 12500,
+      "is_ready": true,
+      "gambar": "nasi-goreng.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Ayam Bakar",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "ayam-bakar.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Ayam Geprek",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "ayam-geprek.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Nasi Goreng",
+      "harga": 12500,
+      "is_ready": true,
+      "gambar": "nasi-goreng.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Donut",
+      "harga": 4000,
+      "is_ready": true,
+      "gambar": "donut.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "Farhan",
+      "noMeja": "4",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 2
+        },
+        {
+          "jumlah_pemesanan": "1",
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Nasi Goreng",
+            "harga": 12500,
+            "is_ready": true,
+            "gambar": "nasi-goreng.jpg"
+          },
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "farhan",
+      "noMeja": "4",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 2
+        },
+        {
+          "jumlah_pemesanan": "1",
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Nasi Goreng",
+            "harga": 12500,
+            "is_ready": true,
+            "gambar": "nasi-goreng.jpg"
+          },
+          "id": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nama": "farhan",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Ayam Bakar",
+            "harga": 8000,
+            "is_ready": true,
+            "gambar": "ayam-bakar.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "3",
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 2
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
